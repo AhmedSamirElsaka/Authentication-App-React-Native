@@ -1,7 +1,7 @@
 export const Colors = {
-  primary100: '#f9beda',
-  primary500: '#c30b64',
-  primary800: '#610440',
-  error100: '#fcdcbf',
-  error500: '#f37c13',
-}
+  headerColor: "#ddb892",
+  backgroundColor: "#e6ccb2",
+  titleColor: "#ede0d4",
+  ExpenseItemColor: "#b08968",
+  error: "#ff9b9b",
+};
